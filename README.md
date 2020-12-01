@@ -1,3 +1,22 @@
+**Key-Value Datastore**
 
- install cachetools -> pip install cachetools and
- Run key_value_datastore.py 
+    It is a file-based key-value data store that supports the basic CRD (create, read, and delete)
+operations. This data store is meant to be used as a local storage for one single process on one
+laptop. The data store must be exposed as a library to clients that can instantiate a class and work
+with the data store.
+
+
+**Installation**
+ 
+ Install the package Cachetools
+ 
+ '''bash
+ pip install cachetools
+ '''
+ 
+ **Usage**
+ Run->key_value_datastore.py 
+ 
+ '''bash
+ python key_value_datastore.py
+ '''
