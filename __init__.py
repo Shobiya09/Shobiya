@@ -1,5 +1,5 @@
-import main_executor 
-import operations
+import key_value_datastore
+#import operations
 import argparse
 
 class datastore():
@@ -20,21 +20,21 @@ class datastore():
 	
 	def create(self):
 		if self.ttl:
-			return main_executor.create(self.client, self.key, self.value, ttl = int(self.ttl), filepath = self.filepath)
+			return key_value_datastore.create1(self.client, self.key, self.value, ttl = int(self.ttl), filepath = self.filepath)
 		else:
-			return main_executor.create(self.client, self.key, self.value, filepath = self.filepath)
+			return key_value_datastore.create1(self.client, self.key, self.value, filepath = self.filepath)
 
 
 	def read(self):
-		return main_executor.read(self.client, self.key, filepath = self.filepath)
+		return key_value_datastore.read1(self.client, self.key, filepath = self.filepath)
 
 
 	def delete(self):
-		return main_executor.delete(self.client, self.key, filepath = self.filepath)
+		return key_value_datastore.delete1(self.client, self.key, filepath = self.filepath)
 
 
 	def reset(self):
-		return main_executor.reset(self.client, filepath = self.filepath)
+		return key_value_datastore.reset1(self.client, filepath = self.filepath)
 
 
 def datastore_invoke(operation_name, **kwargs):
