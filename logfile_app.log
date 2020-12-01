@@ -1,0 +1,278 @@
+01-Dec-20 09:23:05 - root - ERROR - Key's datatype should be String
+01-Dec-20 09:23:05 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 09:23:05 - root - ERROR - Character limit for Key is 32, But it has 34
+01-Dec-20 09:23:05 - root - ERROR - Key's datatype should be String
+01-Dec-20 09:23:05 - root - ERROR - Value's datatype should be JSON object (Dict)
+01-Dec-20 09:23:05 - root - ERROR - Key | 12 | not found for client - hopstre 
+01-Dec-20 09:23:05 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 09:23:36 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 09:23:36 - root - ERROR - For key | mock_test | value - is deleted
+01-Dec-20 09:23:36 - root - ERROR - Key | Reamsochung Chongapipa Aiill CFCS6 | not found for client - hopstre 
+01-Dec-20 09:23:36 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 09:23:36 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 09:23:36 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 09:23:36 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 10:34:45 - root - ERROR - Key's datatype should be String
+01-Dec-20 10:34:45 - root - ERROR - Character limit for Key is 32, But it has 34
+01-Dec-20 10:34:45 - root - ERROR - Key's datatype should be String
+01-Dec-20 10:34:45 - root - ERROR - Key | shobiya | already exist , value - {'Registered_firm': {'firm': 'Alpha', 'location': 'chennai', 'products': {'Product-1': 'migrate', 'Product-2': 'hover_page', 'Product-3': 'ground_truth'}}} 
+01-Dec-20 10:34:45 - root - ERROR - Key | 12 | not found for client - hopstre 
+01-Dec-20 10:34:45 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 10:35:16 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 10:35:16 - root - ERROR - For key | mock_test | value - is deleted
+01-Dec-20 10:35:16 - root - ERROR - Key | Reamsochung Chongapipa Aiill CFCS6 | not found for client - hopstre 
+01-Dec-20 10:35:16 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 10:35:16 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 10:35:16 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 10:35:17 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 10:35:17 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 10:36:45 - root - ERROR - Key's datatype should be String
+01-Dec-20 10:36:46 - root - ERROR - Character limit for Key is 32, But it has 34
+01-Dec-20 10:36:46 - root - ERROR - Key's datatype should be String
+01-Dec-20 10:36:46 - root - ERROR - Value's datatype should be JSON object (Dict)
+01-Dec-20 10:36:46 - root - ERROR - Key | 12 | not found for client - hopstre 
+01-Dec-20 10:36:46 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 10:37:17 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 10:37:17 - root - ERROR - For key | mock_test | value - is deleted
+01-Dec-20 10:37:17 - root - ERROR - Key | Reamsochung Chongapipa Aiill CFCS6 | not found for client - hopstre 
+01-Dec-20 10:37:17 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 10:37:17 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 10:37:17 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 10:37:17 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 10:37:17 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 10:38:13 - root - ERROR - Key's datatype should be String
+01-Dec-20 10:38:13 - root - ERROR - Key | shobiya | already exist , value - {'Registered_firm': {'firm': 'Alpha', 'location': 'chennai', 'products': {'Product-1': 'migrate', 'Product-2': 'hover_page', 'Product-3': 'ground_truth'}}} 
+01-Dec-20 10:38:13 - root - ERROR - Character limit for Key is 32, But it has 34
+01-Dec-20 10:38:13 - root - ERROR - Key's datatype should be String
+01-Dec-20 10:38:13 - root - ERROR - Key | 12 | not found for client - hopstre 
+01-Dec-20 10:38:13 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 10:38:44 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 10:38:44 - root - ERROR - For key | mock_test | value - is deleted
+01-Dec-20 10:38:44 - root - ERROR - Key | Reamsochung Chongapipa Aiill CFCS6 | not found for client - hopstre 
+01-Dec-20 10:38:44 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 10:38:44 - root - ERROR - TTL Value for the Key - Executive expired for the client - hopstre
+01-Dec-20 10:38:44 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 10:38:44 - root - ERROR - Key | mock_test | already exist , value - {'employee': 'siam', 'status': 'fresher', 'role': 'software_engineer'} 
+01-Dec-20 10:38:44 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 11:04:31 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:04:31 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:04:31 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:04:31 - root - ERROR - Key | 12 | not found for client - freshworks 
+01-Dec-20 11:04:31 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 11:05:02 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:05:02 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:05:02 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:05:02 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:05:02 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:05:02 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:05:02 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:05:50 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:05:50 - root - ERROR - Key | student | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:05:50 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:05:50 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:05:50 - root - ERROR - Key | student | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:05:50 - root - ERROR - Key | 12 | not found for client - freshworks 
+01-Dec-20 11:05:50 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 11:06:21 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:06:21 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:06:21 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:06:21 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:06:21 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:06:21 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:06:21 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:14:28 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:14:28 - root - ERROR - Key | student | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:14:28 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:14:28 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:14:28 - root - ERROR - Key | student | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:14:28 - root - ERROR - Key | 12 | not found for client - freshworks 
+01-Dec-20 11:14:28 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 11:14:59 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:14:59 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:14:59 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:14:59 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:14:59 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:14:59 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:14:59 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:15:50 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:15:50 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:15:50 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:15:50 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:15:50 - root - ERROR - Key | 12 | not found for client - freshworks 
+01-Dec-20 11:15:50 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 11:16:21 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:16:21 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:16:21 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:16:21 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:16:21 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:16:21 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:16:21 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:29:43 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:29:43 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:29:43 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:29:43 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:29:43 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:29:43 - root - ERROR - Behire - Client_file_doesnot_exist
+01-Dec-20 11:30:14 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:30:14 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:30:14 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:30:14 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:30:14 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:30:14 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:30:14 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:31:54 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:31:54 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:31:54 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:31:54 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:31:54 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:31:54 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 11:32:25 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:32:25 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:32:25 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:32:25 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:32:25 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 11:32:25 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:32:25 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:48:41 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:48:41 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:48:41 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:48:41 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:48:41 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:48:41 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 11:49:01 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:49:01 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:49:01 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:49:01 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:49:01 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 11:49:01 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:49:01 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:56:38 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:56:38 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:56:38 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:56:38 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:56:38 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:56:38 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 11:56:58 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:56:58 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:56:58 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:56:58 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:56:58 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 11:56:58 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:56:58 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:59:05 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:59:05 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:59:05 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 11:59:05 - root - ERROR - Key's datatype should be String
+01-Dec-20 11:59:05 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 11:59:05 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 11:59:25 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 11:59:25 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 11:59:25 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 11:59:25 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 11:59:25 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 11:59:26 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 11:59:26 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:03:28 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:03:28 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:03:28 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:03:28 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:03:28 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:03:28 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:03:48 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:03:48 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:03:48 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:03:48 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:03:48 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:03:48 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:03:48 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:04:59 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:04:59 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:04:59 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:04:59 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:04:59 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:04:59 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:05:19 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:05:19 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:05:19 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:05:19 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:05:19 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:05:19 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:05:19 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:06:44 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:06:44 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:06:44 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:06:44 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:06:44 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:06:44 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:07:04 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:07:04 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:07:04 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:07:04 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:07:04 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:07:04 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:07:04 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:07:49 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:07:49 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:07:49 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:07:49 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:07:49 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:07:49 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:08:09 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:08:09 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:08:09 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:08:09 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:08:09 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:08:09 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:08:09 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:10:53 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:10:53 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:10:53 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:10:53 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:10:53 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:11:13 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:11:13 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:11:13 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:11:13 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:11:13 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:11:13 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:11:13 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 12:12:48 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:12:48 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:12:48 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:12:48 - root - ERROR - Value's datatype should be JSON object (Dict)
+01-Dec-20 12:12:48 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:12:48 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:13:08 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:13:08 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:13:08 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:13:08 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:13:08 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:13:08 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:13:08 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:13:08 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 12:13:59 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:13:59 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:13:59 - root - ERROR - Value's datatype should be JSON object (Dict)
+01-Dec-20 12:13:59 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:13:59 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:14:19 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:14:19 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:14:19 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:14:19 - root - ERROR - Special24 - Client_file_doesnot_exist
+01-Dec-20 12:14:19 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:14:19 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:14:19 - root - ERROR - Delete Operation Failed - Data Dumping failed
+01-Dec-20 12:21:24 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:21:24 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:21:24 - root - ERROR - Character limit for Key is 32, But it has 44
+01-Dec-20 12:21:24 - root - ERROR - Value's datatype should be JSON object (Dict)
+01-Dec-20 12:21:24 - root - ERROR - Key | student1 | already exist , value - {'Registered_candidate': {'college_name': 'SVCE', 'location': 'Chennai', 'departments': {'Department-1': 'Information Technology', 'Department-2': 'Computer Science', 'Department-3': 'Bio Technology'}}} 
+01-Dec-20 12:21:24 - root - ERROR - SVCE - Client_file_doesnot_exist
+01-Dec-20 12:21:45 - root - ERROR - TTL Value for the Key - Executive expired for the client - freshworks
+01-Dec-20 12:21:45 - root - ERROR - For key | backend_assessment | value - is deleted
+01-Dec-20 12:21:45 - root - ERROR - Key | This assessment is only for Engineer Role... | not found for client - freshworks 
+01-Dec-20 12:21:45 - root - ERROR - Special24 - Client file doesnot exist
+01-Dec-20 12:21:45 - root - ERROR - Key | backend_assessment | not found for client - freshworks 
+01-Dec-20 12:21:45 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:21:45 - root - ERROR - Key | backend_assessment | already exist , value - {'Student_name': 'Shobiya', 'status': 'Final year', 'Department': 'Information Technology'} 
+01-Dec-20 12:21:45 - root - ERROR - Delete Operation Failed due to Data Dumping 
