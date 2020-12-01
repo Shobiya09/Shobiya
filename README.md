@@ -8,7 +8,7 @@ with the data store.
 
 **Installation**
  
- Install the package manager [pip](https://pip.pypa.io/en/stable/) to install footbar
+ Install the package manager [pip](https://pip.pypa.io/en/stable/) to install cachetools
  
  
      pip install cachetools
@@ -16,7 +16,7 @@ with the data store.
  
  **Usage**
  
- Run->key_value_datastore.py 
+ To run key_value_datastore.py 
  
       python key_value_datastore.py
  
