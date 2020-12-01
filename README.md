@@ -8,13 +8,14 @@ with the data store.
 
 **Installation**
  
- Install the package Cachetools
+ Install the package manager [pip](https://pip.pypa.io/en/stable/) to install footbar
  
  
      pip install cachetools
 
  
  **Usage**
+ 
  Run->key_value_datastore.py 
  
       python key_value_datastore.py
