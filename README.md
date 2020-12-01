@@ -10,13 +10,13 @@ with the data store.
  
  Install the package Cachetools
  
- '''bash
+ ' ' 'bash
  pip install cachetools
- '''
+ ' ' '
  
  **Usage**
  Run->key_value_datastore.py 
  
- '''bash
+ ' ' 'bash
  python key_value_datastore.py
- '''
+ ' ' '
