@@ -18,7 +18,7 @@ with the data store.
  
  To run key_value_datastore.py 
  
-      python key_value_datastore.py
+      python crd_unit_test.py
  
  
  
