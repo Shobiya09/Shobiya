@@ -16,7 +16,7 @@ with the data store.
  
  **Usage**
  
- To run key_value_datastore.py 
+ To run crd_unit_test.py 
  
       python crd_unit_test.py
  
